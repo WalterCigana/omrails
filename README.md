@@ -1,6 +1,6 @@
 ## One month Rails
-s
-Sample application README
 
-another test
+Sample application README for omRails
+
+Walter Cigana
 
